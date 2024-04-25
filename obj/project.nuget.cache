@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHif+JNU2M7v4Lb4m3w7SAO2sdR+3d+PP5xvhLRdMAw4eFoArn4s0O4YhREj9ycuuLIUYM5yLV7AWBF2nNxuRQ==",
+  "success": true,
+  "projectFilePath": "/Users/didierrestrepo/dev/net/backgroundApi/backgroundApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/didierrestrepo/.nuget/packages/cronos/0.8.4/cronos.0.8.4.nupkg.sha512",
+    "/Users/didierrestrepo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/didierrestrepo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/didierrestrepo/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/didierrestrepo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/didierrestrepo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/didierrestrepo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

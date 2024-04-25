@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hHfMHonfHM8hlbSm55iexRNcRfKY3ngYwP82VntGC7k=",
+  "Source": "backgroundApi",
+  "BasePath": "_content/backgroundApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
